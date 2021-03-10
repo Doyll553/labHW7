@@ -1,0 +1,39 @@
+body{
+	background-color: gray;
+}
+.type{
+	font-family: Courier;
+	font-size: 35px;
+	color: white;
+	padding-left: 45%;
+	max-width: 680px;
+}
+#selfie{
+	position: absolute;
+	float: left;
+	width: 30%;
+	padding-left: 20px;
+}
+#ledray{
+	position: relative;
+	float: left;
+	width: 10%;
+	padding-left: 350px;
+	padding-top: 20px;
+}
+#white{
+	position: absolute;
+	float: left;
+	width: 18%;
+	padding-left: 300px;
+	padding-top: 400px;
+}
+.full{
+	opacity: 100%;
+}
+.clear{
+	opacity: 0%;
+}
+img{
+	display: block;
+}
